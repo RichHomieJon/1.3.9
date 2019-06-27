@@ -1,6 +1,6 @@
 # 1.3.9
 
-Just getting used to programming syntax and GitHub in one of my High School courses in 2015; nothing much here.
+Testing out GitHub in a high school course.
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 Jonathan Infante
 <br/>
